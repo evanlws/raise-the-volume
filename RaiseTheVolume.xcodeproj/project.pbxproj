@@ -12,6 +12,7 @@
 		3C98F6381DE7EFFA0023680D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C98F6371DE7EFFA0023680D /* Assets.xcassets */; };
 		3C98F63B1DE7EFFA0023680D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C98F6391DE7EFFA0023680D /* LaunchScreen.storyboard */; };
 		3C98F6431DE7F0EC0023680D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C98F6421DE7F0EC0023680D /* Main.storyboard */; };
+		3C98F6451DE8B9420023680D /* RaiseTheVolume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C98F6441DE8B9420023680D /* RaiseTheVolume.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3C98F63A1DE7EFFA0023680D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C98F63C1DE7EFFA0023680D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C98F6421DE7F0EC0023680D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		3C98F6441DE8B9420023680D /* RaiseTheVolume.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RaiseTheVolume.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3C98F6301DE7EFFA0023680D /* AppDelegate.swift */,
 				3C98F6321DE7EFFA0023680D /* ViewController.swift */,
+				3C98F6441DE8B9420023680D /* RaiseTheVolume.swift */,
 				3C98F6371DE7EFFA0023680D /* Assets.xcassets */,
 				3C98F6421DE7F0EC0023680D /* Main.storyboard */,
 				3C98F6391DE7EFFA0023680D /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				3C98F6331DE7EFFA0023680D /* ViewController.swift in Sources */,
 				3C98F6311DE7EFFA0023680D /* AppDelegate.swift in Sources */,
+				3C98F6451DE8B9420023680D /* RaiseTheVolume.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
